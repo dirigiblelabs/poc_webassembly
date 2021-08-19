@@ -5,7 +5,7 @@ There is some problem in wasmer library for macOs.
 
 1. Clone the repository
 ```  
-git clone https://github.com/vanolincikus/webassembly_example.git
+git clone https://github.com/dirigiblelabs/poc_webassembly.git
 ```
 2. Go to folder 
 ```
