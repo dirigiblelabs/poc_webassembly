@@ -9,7 +9,7 @@ git clone https://github.com/vanolincikus/webassembly_example.git
 ```
 2. Go to folder 
 ```
-cd webassembly_example
+cd poc_webassembly
 ```
 ### Here you can see three folders: 
 
