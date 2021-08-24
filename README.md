@@ -10,7 +10,7 @@ git clone https://github.com/dirigiblelabs/poc_webassembly.git
 ```
 cd poc_webassembly
 ```
-### Here you can see three folders: 
+### Here you can see folowing folders: 
 
 `wasm_compile` - folder with java program which will compile our java program to .wasm 
 
